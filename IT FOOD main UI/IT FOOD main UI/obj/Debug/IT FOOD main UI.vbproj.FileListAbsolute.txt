@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\IT FOOD main UI\IT FOOD main UI\bin\Debug\IT FOOD main UI.exe.config
+C:\Users\user\source\repos\IT FOOD main UI\IT FOOD main UI\bin\Debug\IT FOOD main UI.exe
+C:\Users\user\source\repos\IT FOOD main UI\IT FOOD main UI\bin\Debug\IT FOOD main UI.pdb
+C:\Users\user\source\repos\IT FOOD main UI\IT FOOD main UI\bin\Debug\IT FOOD main UI.xml
+C:\Users\user\source\repos\IT FOOD main UI\IT FOOD main UI\obj\Debug\IT FOOD main UI.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\IT FOOD main UI\IT FOOD main UI\obj\Debug\IT_FOOD_main_UI.Form1.resources
+C:\Users\user\source\repos\IT FOOD main UI\IT FOOD main UI\obj\Debug\IT_FOOD_main_UI.Resources.resources
+C:\Users\user\source\repos\IT FOOD main UI\IT FOOD main UI\obj\Debug\IT FOOD main UI.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\IT FOOD main UI\IT FOOD main UI\obj\Debug\IT FOOD main UI.exe
+C:\Users\user\source\repos\IT FOOD main UI\IT FOOD main UI\obj\Debug\IT FOOD main UI.xml
+C:\Users\user\source\repos\IT FOOD main UI\IT FOOD main UI\obj\Debug\IT FOOD main UI.pdb
