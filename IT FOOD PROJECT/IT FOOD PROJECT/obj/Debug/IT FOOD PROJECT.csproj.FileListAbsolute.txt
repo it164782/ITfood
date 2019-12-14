@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\IT FOOD PROJECT\IT FOOD PROJECT\bin\Debug\IT FOOD PROJECT.exe.config
+C:\Users\user\source\repos\IT FOOD PROJECT\IT FOOD PROJECT\bin\Debug\IT FOOD PROJECT.exe
+C:\Users\user\source\repos\IT FOOD PROJECT\IT FOOD PROJECT\bin\Debug\IT FOOD PROJECT.pdb
+C:\Users\user\source\repos\IT FOOD PROJECT\IT FOOD PROJECT\obj\Debug\IT_FOOD_PROJECT.Form1.resources
+C:\Users\user\source\repos\IT FOOD PROJECT\IT FOOD PROJECT\obj\Debug\IT_FOOD_PROJECT.Properties.Resources.resources
+C:\Users\user\source\repos\IT FOOD PROJECT\IT FOOD PROJECT\obj\Debug\IT_FOOD_PROJECT.UserLogin.resources
+C:\Users\user\source\repos\IT FOOD PROJECT\IT FOOD PROJECT\obj\Debug\IT FOOD PROJECT.csproj.GenerateResource.cache
+C:\Users\user\source\repos\IT FOOD PROJECT\IT FOOD PROJECT\obj\Debug\IT FOOD PROJECT.exe
+C:\Users\user\source\repos\IT FOOD PROJECT\IT FOOD PROJECT\obj\Debug\IT FOOD PROJECT.pdb
